@@ -7,3 +7,5 @@
 - 🌐 Lived in 5 countries so far
 - 🚁 Like drones & robots
 - ☕ For more see my [Linkedin](https://www.linkedin.com/in/shrf/)
+----
+![Random image](https://picsum.photos/1080/200)
