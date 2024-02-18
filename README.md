@@ -8,4 +8,4 @@
 - 🚁 Like drones & robots
 - ☕ For more see my [Linkedin](https://www.linkedin.com/in/shrf/)
 ----
-![Random image](https://picsum.photos/1080/200)
+![Some random image](https://picsum.photos/1080/200)
