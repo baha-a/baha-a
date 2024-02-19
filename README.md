@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm:
   - 💻 Software developer
   - 🧑‍🏭 Working with [@Devtailor](https://github.com/Devtailor)
   - 🏡 Wokring from home
